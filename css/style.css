@@ -1,0 +1,15 @@
+.gallery {
+  display        : flex;
+  flex-wrap      : wrap;
+  align-items    : stretch;
+  justify-content: space-around;
+  flex-direction : column;
+  max-height     : 100vh;
+}
+
+.gallery img {
+  margin    : 1em;
+  border    : 0.2em solid #332D2A;
+  box-shadow: 3px 3px 8px 0px rgba(0, 0, 255, 0.3);
+  max-width : 15vw;
+}
