@@ -1,6 +1,6 @@
 # wall-gallary
 
-### convert the Simple HTML & CSS file wall-gallary into React Project using the bellow api with dynamic image.
+#### convert the Simple HTML & CSS file wall-gallary into React Project using the bellow api with dynamic image.
 
 
 API URL - http://www.mocky.io/v2/5ecb5c353000008f00ddd5a0
